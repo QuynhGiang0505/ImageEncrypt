@@ -3,7 +3,9 @@ The project proposes a digital image encoding method based on DCT image compress
 
 LIBRARY NEEDED:
 - OpenCV
+
 Run file Encryption.cpp to use
+
 Steps to Compress
 
 - Input full image file path to compress
