@@ -31,3 +31,15 @@ Study References
 Implementation References
 
 -https://github.com/rezeck/CompressorJPEG
+
+Result :
+original image
+<img src="https://user-images.githubusercontent.com/90474684/182527402-2a522bec-bb94-4869-ac14-898ef92258fe.png" alt="original image" />
+After using Logistic Map 1
+<img src="https://user-images.githubusercontent.com/90474684/182527583-9bb97550-44d8-4a12-9875-8557eca6dd81.png" alt="Logistic Map 1" />
+After using Henon Map
+<img src="https://user-images.githubusercontent.com/90474684/182527700-1c20414a-daa3-4e91-be84-d22176ab4b00.png" alt="Henon Map" />
+Final
+<img src="https://user-images.githubusercontent.com/90474684/182527787-2827b79c-cca8-46df-9575-249981d66672.png" alt="Final" />
+Decrypted image
+<img src="https://user-images.githubusercontent.com/90474684/182527913-b462f22c-8a62-45f8-ae66-4371d5318560.png" alt="Decrypted image" />
